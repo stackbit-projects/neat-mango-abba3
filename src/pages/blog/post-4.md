@@ -23,5 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem il
 - Te enim iudicem aequum puto, modo quae dicat ille bene noris.
 - Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
 - Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
-
+few
 **Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+
+<script data-ad-client="ca-pub-0497201565407166" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
