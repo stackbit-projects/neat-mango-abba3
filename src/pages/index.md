@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/pexels-photo-159888.jpeg
+    image: images/pexels-david-mcbee-730547.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
