@@ -2,10 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Learn How to Trade the Market
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Easily trade the market with stocks and options using the simple
+      fundamentals of Indicators
     actions:
       - label: Learn More
         url: /features
@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/pexels-david-mcbee-730547.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
