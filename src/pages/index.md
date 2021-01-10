@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Learn How to Trade the Market
-    subtitle: 'Easily trade the market '
+    subtitle: Easily trade the market with stocks and/or options using the simpl
     actions:
       - label: Learn More
         url: /features
