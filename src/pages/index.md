@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: I\
+    title: 'Learn How to '
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
