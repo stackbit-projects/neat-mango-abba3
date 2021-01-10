@@ -5,7 +5,7 @@ sections:
     title: Learn How to Trade the Market
     subtitle: >-
       Easily trade the market with stocks and options using the simple
-      fundamentals of Indicators 
+      fundamentals of Indicators
     actions:
       - label: Learn More
         url: /features
